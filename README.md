@@ -1,5 +1,5 @@
 # Estructura-Datos Dinamicas
- ##Operacion con
+## Operacion con
 - Operaciones con pilas
 - Operaciones con colas
 
