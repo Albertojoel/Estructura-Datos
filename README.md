@@ -1,6 +1,5 @@
-# Estructura-Datos
- estructuras dinamicas
-PILAS
-COLAS
-ARBOLES
-LISTAS
+# Estructura-Datos Dinamicas
+ ##Operacion con
+- Operaciones con pilas
+- Operaciones con colas
+
